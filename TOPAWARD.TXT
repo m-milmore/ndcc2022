@@ -1,64 +1,26 @@
-****************************Top Studio Entries Only****************************
+**************************************pro**************************************
 Points	Name	Package	Top	Dances (total/this category)
-  354.00	SlavaTalent Ballroom Dance	0	N	354/354
-  178.00	Shall We Dance Toronto	0	N	178/178
-  130.00	Artistica Ballroom Studio	0	N	132/130
-   77.00	Joli's Dance Studio	0	N	80/77
-   32.00	Arthur Murray Ottawa	0	N	59/32
-   28.00	Arthur Murray West Island	0	N	28/28
-   27.00	Diamond Studio Ottawa	0	N	27/27
-   23.00	Messier-Bolduc Mascouche	0	N	36/23
-   15.00	Arthur Murray Ajax	0	N	15/15
-   13.00	Levita Dance	0	N	13/13
-   12.00	Bahia Chateauguay	0	N	16/12
-   12.00	Dancing Stars Toronto	0	N	12/12
-   11.00	Green, Hermione (I)	0	N	12/11
-   11.00	Studenny, Daniel (I)	0	N	12/11
-   11.00	Wills, Woodrow (I)	0	N	11/11
-    8.00	Juste Danse Montréal	0	N	8/8
-    3.00	Studio Danza	0	N	37/3
-    3.00	Dance With Us Ottawa	0	N	3/3
-****************************Top Teacher Entries Only****************************
-Points	Name	Package	Top	Dances (total/this category)
-  244.00	V. Tudorovsky [SlavaTalent Ballroom Dance]	N	N	244/244
-  132.00	Ivan Lebedev [Shall We Dance Toronto]	N	N	132/132
-   77.00	Andrew Sniegocki [Joli's Dance Studio]	N	N	77/77
-   73.00	Patrick Derry [Artistica Ballroom Studio]	N	N	75/73
-   57.00	Anastasia Trutneva	N	N	59/57
-   46.00	Maria Elent [Shall We Dance Toronto]	N	N	46/46
-   40.00	Karen Renaud [Ballroom on Wellington]	N	N	40/40
-   40.00	Stephanie Tudorovsky [SlavaTalent Ballroom Dance]	N	N	40/40
-   28.00	Simone Zat	N	N	28/28
-   27.00	Chris Drumm [Diamond Studio Ottawa]	N	N	27/27
-   23.00	Marie Bolduc [Messier-Bolduc Mascouche]	N	N	23/23
-   22.00	Vadim Safonov [Arthur Murray Ottawa]	N	N	22/22
-   16.00	Mila Kremer [Art Motion Ottawa]	N	N	16/16
-   15.00	Anton Lebedev	N	N	15/15
-   13.00	Dmitry Levita [Levita Dance]	N	N	13/13
-   12.00	Francis Lafreniere [Bahia Chateauguay]	N	N	12/12
-   12.00	Viacheslav Chizhik	N	N	12/12
-   11.00	Daniel Studenny	N	N	12/11
-   11.00	Woodrow Wills	N	N	12/11
-   11.00	Hermione Green [Dancesport MD]	N	N	12/11
-***************************Top Students Entries Only***************************
-Points	Name	Package	Top	Dances (total/this category)
-   76.00	Caralyn Tierney [SlavaTalent Ballroom Dance]	N	N	76/76
-   57.00	Carmen Cornacchia [Artistica Ballroom Studio]	N	N	57/57
-   56.00	Julie Frame [Joli's Dance Studio]	N	N	56/56
-   42.00	Lori Greco [Artistica Ballroom Studio]	N	N	42/42
-   38.00	Amelia Ma [Shall We Dance Toronto]	N	N	38/38
-   36.00	Steve Doroszkiewcz [SlavaTalent Ballroom Dance]	N	N	36/36
-   32.00	Maria Cheuk [Shall We Dance Toronto]	N	N	32/32
-   31.00	Patti Collins [Artistica Ballroom Studio]	N	N	31/31
-   29.00	Myra Flipsen [SlavaTalent Ballroom Dance]	N	N	34/34
-   28.00	Nadia Sicilia [Arthur Murray Montréal]	N	N	28/28
-   27.00	Mike Flipsen [SlavaTalent Ballroom Dance]	N	N	32/32
-   25.00	Kay Beattie [SlavaTalent Ballroom Dance]	N	N	25/25
-   24.00	Eva Platek [SlavaTalent Ballroom Dance]	N	N	24/24
-   24.00	Trish McNally [SlavaTalent Ballroom Dance]	N	N	24/24
-   23.00	Linda Ueno [Shall We Dance Toronto]	N	N	23/23
-   23.00	Dominique Nadeau [Arthur Murray Ottawa]	N	N	26/24
-   22.00	Jeffrey Cody [SlavaTalent Ballroom Dance]	N	N	22/22
-   18.00	Tom Ma [Shall We Dance Toronto]	N	N	18/18
-   16.00	Joe Colangelo [Shall We Dance Toronto]	N	N	16/16
-   15.00	Sandra Banner [Diamond Studio Ottawa]	N	N	15/15
+    2.00	Patrick Derry [Artistica Ballroom Studio]	N	N	75/2
+	Anastasia Trutneva [Artistica Ballroom Studio]	N	N	68/2
+    2.00	Michael Rubezin	N	N	2/2
+	Elise Magliocchetti	N	N	2/2
+    2.00	Vladyslav Storozhuk	N	N	2/2
+	Breanna Horniblow	N	N	2/2
+    1.00	Hai Tran	N	N	1/1
+	Jocelyn Jacques [Arthur Murray North York]	N	N	1/1
+    1.00	Egor Shalvarov [Studio Egor and Alla]	N	N	1/1
+	Alla Profatilova [Studio Egor and Alla]	N	N	1/1
+    1.00	Yvan Piwovarov [Shall We Dance Toronto]	N	N	1/1
+	Irina Khanova	N	N	1/1
+    1.00	Vladyslav Komelkov	N	N	1/1
+	A. Sevastianova	N	N	1/1
+    1.00	Alec Zhiwei Zhang	N	N	1/1
+	Zhuoshi Xie	N	N	1/1
+    1.00	Woodrow Wills	N	N	12/1
+	Hermione Green [Dancesport MD]	N	N	12/1
+    1.00	Daniel Studenny	N	N	12/1
+	Tatiana Rotova	N	N	1/1
+    1.00	Alexey Karaulov	N	N	1/1
+	Vlada Karaulov	N	N	1/1
+    1.00	Vincent Corriveau [Juste Danse Montréal]	N	N	19/1
+	Bianca Champagne [Juste Danse Montréal]	N	N	12/1
