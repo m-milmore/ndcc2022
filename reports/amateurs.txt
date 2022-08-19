@@ -1,0 +1,260 @@
+************************************Amateurs************************************
+Points	Name	Package	Top	Dances (total/this category)
+   19.00	Anthony Zhylich	N	N	19/19
+	Nicole Murzin	N	N	19/19
+   18.00	Vivienne Balan [Dance With Us Ottawa]	N	N	18/18
+   17.00	Daniel Popov [Universe Danse Art]	N	N	19/17
+	Agnessa Lawson	N	N	17/17
+   14.00	Andrei Osotkin	N	N	14/14
+	Elina Carunas	N	N	14/14
+   14.00	Daniel Petrenko [Arthur Murray Ottawa]	N	N	14/14
+	Karina Safonova [Arthur Murray Ottawa]	N	N	14/14
+   14.00	Aleksey Bialkovich	N	N	14/14
+	Maria Rusalowskaya	N	N	14/14
+   13.00	Filip Kwietniewski	N	N	13/13
+	Maya Pavlenko [Grand Dance Studio]	N	N	13/13
+   13.00	Dmitriy Haisionak	N	N	13/13
+	Laura Kwietniewska	N	N	13/13
+   12.00	Maxim Orlov	N	N	12/12
+	Veronica Galeeva	N	N	12/12
+   12.00	Darryl Boutilier	N	N	12/12
+	Ursula Prossegger	N	N	12/12
+   12.00	Sofia Narodetskaya [Universe Danse Art]	N	N	13/12
+	Nicole Narodetskaya	N	N	22/12
+   12.00	Sebastian Sanchez	N	N	12/12
+	Shantele Cherkasskiy	N	N	12/12
+   10.00	Nikola Janicek	N	N	10/10
+	Adelina Lawson	N	N	10/10
+   10.00	Alexander Garnhum	N	N	10/10
+	Kassidy Demings	N	N	10/10
+   10.00	Avianna Ghantous [Arthur Murray Ottawa]	N	N	10/10
+   10.00	Daniel Belenkiy	N	N	10/10
+	Nicole Narodetskaya	N	N	22/10
+   10.00	Bianca Sabo [Dance With Us Ottawa]	N	N	10/10
+   10.00	Michel Chiocchio	N	N	10/10
+	Nathalie Gendron	N	N	10/10
+    9.00	Elizaveta Garanina	N	N	9/9
+    9.00	Alexander Shpolski [Olympic Stars Aurora]	N	N	9/9
+	Talia Sochnaki	N	N	9/9
+    8.00	Danil Akimov	N	N	8/8
+	Anna Osminina	N	N	8/8
+    8.00	Andrey Ilyushenov	N	N	8/8
+	Sophia Baydala [Olympic Stars Aurora]	N	N	8/8
+    8.00	Athyn Chan [Dance DNA Vaughan]	N	N	20/8
+	Sofia Nor-Arevian	N	N	8/8
+    8.00	Emily Scafaru	N	N	8/8
+    7.00	Scarlett Sanchez [World Dance Co.]	N	N	7/7
+    7.00	Evelina Timbrilo [FollowMaxFomin]	N	N	10/7
+    7.00	Abigail Dempster [Art Motion Ottawa]	N	N	19/7
+    7.00	Joshua Li	N	N	7/7
+	Vanessa Buscu [Unique Dance Calgary]	N	N	7/7
+    7.00	Rejean Goudreau	N	N	7/7
+	Claire Desmarais	N	N	7/7
+    7.00	Ernst Radloff	N	N	7/7
+	Mary Radloff	N	N	7/7
+    7.00	Sabrina Sanchez [World Dance Co.]	N	N	7/7
+    6.00	Stephen Bowdridge	N	N	6/6
+	Gilda Bowdridge	N	N	6/6
+    6.00	Eliran Yakobov [Olympic Stars Aurora]	N	N	15/6
+	Leanna Shtein [Olympic Stars Aurora]	N	N	18/6
+    6.00	Dmitriy Kouznetsov	N	N	6/6
+	Aesha Youssouf	N	N	6/6
+    6.00	Alin Todea [Unique Dance Calgary]	N	N	14/6
+	Sophia Moangher [Unique Dance Calgary]	N	N	6/6
+    6.00	Alexey Gradinari [Olympic Stars Aurora]	N	N	14/6
+	Maria Kopylova [Olympic Stars Aurora]	N	N	7/6
+    6.00	Marcin Kwietniewski	N	N	6/6
+	Monika Kwietniewska	N	N	6/6
+    6.00	Kristian Sulea [Dance DNA Vaughan]	N	N	6/6
+	Victoria Askinadze [Dance DNA Vaughan]	N	N	15/6
+    6.00	Richard Kpahou [Top Dance Look]	N	N	6/6
+	Yana Bahizhaev [Top Dance Look]	N	N	6/6
+    6.00	Kyra Pozdirca	N	N	9/6
+    6.00	Sasha Kotenov	N	N	6/6
+    6.00	Mark Lebov	N	N	16/6
+	Sofiya Badalyan [Olympic Stars Aurora]	N	N	17/6
+    6.00	Roman Solomakha	N	N	6/6
+	Katerina Lipova	N	N	6/6
+    6.00	Ali Gana-Akkor	N	N	6/6
+    6.00	Dariya Panina [Olympic Stars Aurora]	N	N	9/6
+    6.00	Mia Yelizarova	N	N	10/6
+    6.00	Gabriel Ciobanu [FollowMaxFomin]	N	N	9/6
+    6.00	Maxim Roganov [Olympic Stars Aurora]	N	N	6/6
+	Sofia Zannella	N	N	7/6
+    6.00	Michael Belenkiy	N	N	6/6
+    5.00	Jean Zmyslony	N	N	11/5
+	Mariette Julien	N	N	5/5
+    5.00	Maxim Lieff	N	N	5/5
+	Rochelle Fang	N	N	5/5
+    5.00	Philippe Beauchesne	N	N	5/5
+	Lola Kokta-Gagnon	N	N	5/5
+    5.00	James White [Dance Quality Ottawa]	N	N	5/5
+	Sheila Parry	N	N	5/5
+    5.00	Sylvain Labelle	N	N	5/5
+	Celine Picard	N	N	5/5
+    5.00	Roland Saulnier	N	N	5/5
+	Francine Provost	N	N	5/5
+    5.00	Eric Norris	N	N	5/5
+	Brenda Mercer	N	N	5/5
+    5.00	Eryn Yang	N	N	5/5
+	M. Shepelevich	N	N	5/5
+    5.00	Delbe Robichaud	N	N	5/5
+	Jeannine Comeau	N	N	5/5
+    5.00	John Scarlett	N	N	5/5
+	Christine Scarlett	N	N	5/5
+    5.00	Eitan Barsky [Olympic Stars Aurora]	N	N	11/5
+	Emilia Yakubyk [Olympic Stars Aurora]	N	N	13/5
+    5.00	Patrick Busoi [A and V Dance Sport Club]	N	N	5/5
+	Anna Orlyenko [A and V Dance Sport Club]	N	N	5/5
+    4.00	Thomas Zinger	N	N	4/4
+	Sarah Stolarsky	N	N	4/4
+    4.00	Sunny So	N	N	4/4
+	Jessie Du [Dance Masters]	N	N	4/4
+    4.00	Gary Katch	N	N	4/4
+	Madeleine Villano	N	N	4/4
+    4.00	Nathaniel Petrov	N	N	4/4
+	Katrina Petrova	N	N	4/4
+    4.00	Isabel Pogossian [Olympic Stars Aurora]	N	N	4/4
+    4.00	Ivan Kolomiyets [Dance Mania]	N	N	4/4
+	C. Shevelevich [Dance Mania]	N	N	4/4
+    4.00	Denis Renaud	N	N	4/4
+	Ginette G Beaulieu	N	N	4/4
+    4.00	Nikita Olsinskiy [Studio Danza]	N	N	4/4
+	Sofia Atanassov [Studio Danza]	N	N	4/4
+    4.00	Alfred Poon	N	N	4/4
+	Lucilla Poon	N	N	4/4
+    4.00	Ionut Ilie	N	N	4/4
+	Isabella Jibritchi	N	N	4/4
+    4.00	Mykyta Tsydinskyi	N	N	4/4
+	Elizabeth Davidov [Olympic Stars Aurora]	N	N	5/4
+    4.00	Imre Thokoly [Studio Danza]	N	N	4/4
+	Ilona Thokoly [Studio Danza]	N	N	4/4
+    4.00	Anabelle Tremblay [Bahia Studio]	N	N	8/4
+    4.00	Sebastian Lai	N	N	4/4
+	Susanna Ng	N	N	4/4
+    4.00	Nikifor Kiselev [Kiselev, ]	N	N	4/4
+	Eva Charlton [Kiselev, ]	N	N	4/4
+    4.00	Riley Scrivens [Art Motion Ottawa]	N	N	4/4
+    4.00	A. Muhlbacher	N	N	4/4
+	Julia Ling Guzman	N	N	4/4
+    4.00	Pavel Kirillov	N	N	4/4
+	Anastasia Lipova	N	N	4/4
+    4.00	Sylvain Desaulniers	N	N	4/4
+	Ginette Znack	N	N	4/4
+    4.00	Cong Nguyen	N	N	4/4
+	Irina Fedortchenko	N	N	4/4
+    4.00	Alessya Labattaglia [Bahia Chateauguay]	N	N	4/4
+    4.00	Richard Bodrug	N	N	15/4
+	Kristina Smadych	N	N	4/4
+    4.00	Ambrose Fung [Dance DNA Vaughan]	N	N	4/4
+	Cellina Fung [Dance DNA Vaughan]	N	N	4/4
+    3.00	Alexander Izyumskyy	N	N	3/3
+	Dariya Panina [Olympic Stars Aurora]	N	N	9/3
+    3.00	Daniel Ciobanu	N	N	5/3
+	Evelina Timbrilo [FollowMaxFomin]	N	N	10/3
+    3.00	Tristan Renaud [Studio Danza]	N	N	3/3
+	Elly Arbour [Studio Danza]	N	N	5/3
+    3.00	Sebastian Romodin	N	N	3/3
+	Mia Yelizarova	N	N	10/3
+    3.00	Truong-Son Pham	N	N	3/3
+	Patricia Panfili [Centrale de la Danse]	N	N	16/3
+    3.00	David Culcitchi	N	N	3/3
+	Eva Balan	N	N	3/3
+    3.00	Nicolas Gelin	N	N	3/3
+	Stephanie Forcier	N	N	3/3
+    3.00	Christian Cloutier	N	N	3/3
+	Madeleine Dore	N	N	3/3
+    3.00	Peeter Stefanov [Dance Mania]	N	N	3/3
+	Nina Stefanov [Dance Mania]	N	N	3/3
+    3.00	David Miller [Joli's Dance Studio]	N	N	3/3
+	Eva Szalkai [Joli's Dance Studio]	N	N	3/3
+    3.00	Ilya Shevelevich [Dance Mania]	N	N	3/3
+	Polina Kolomiyets [Dance Mania]	N	N	3/3
+    3.00	Edouard Culcitchi	N	N	3/3
+	Kyra Pozdirca	N	N	9/3
+    3.00	Grant den Haan	N	N	13/3
+	Isabelle Olsen	N	N	13/3
+    3.00	Jean-Francois Zahnen	N	N	3/3
+	Karine Daigle	N	N	3/3
+    3.00	Gabriel Ciobanu [FollowMaxFomin]	N	N	9/3
+	Adriana Rontzocos [FollowMaxFomin]	N	N	3/3
+    3.00	Jack Wei	N	N	3/3
+	Sharon Wang	N	N	3/3
+**********************************Amateurs Mix**********************************
+Points	Name	Package	Top	Dances (total/this category)
+   16.00	Wendy Zhu [Studio 2720 Montreal]	N	N	16/16
+	Ethan Zhu [Studio Danza]	N	N	16/16
+   12.00	Helen Zhang [Dance DNA Vaughan]	N	N	12/12
+	Athyn Chan [Dance DNA Vaughan]	N	N	20/12
+   12.00	Alexandru Matei Dinu [Unique Dance Calgary]	N	N	12/12
+	Ana Maria Cernat [Unique Dance Calgary]	N	N	12/12
+   11.00	Brooklyn Will [Studio Danza]	N	N	11/11
+	Aidan Bermingham [Studio Danza]	N	N	22/11
+   10.00	Suzanne Sakaluk [Art Motion Ottawa]	N	N	10/10
+	Lionel Doonan	N	N	18/10
+    9.00	Evangelina Ursu [Unique Dance Calgary]	N	N	9/9
+	Andrew Buscu [Unique Dance Calgary]	N	N	9/9
+    9.00	Leonel Gilburd [Dance DNA Vaughan]	N	N	9/9
+	Victoria Askinadze [Dance DNA Vaughan]	N	N	15/9
+    8.00	Arina Rakityanska [Olympic Stars Aurora]	N	N	8/8
+	Alexey Gradinari [Olympic Stars Aurora]	N	N	14/8
+    8.00	Philippe Messier [Messier-Bolduc Mascouche]	N	N	12/8
+	Daniela Rosculet	N	N	11/8
+    8.00	Bella Gaie [Unique Dance Calgary]	N	N	8/8
+	Alin Todea [Unique Dance Calgary]	N	N	14/8
+    7.00	Maxim Arbour [Studio Danza]	N	N	9/7
+	Elisabeth Poirier [Studio Danza]	N	N	21/7
+    7.00	Sophie Kartaradze [Dance DNA Vaughan]	N	N	8/7
+	Idan Daich	N	N	15/7
+    6.00	Sofiya Badalyan [Olympic Stars Aurora]	N	N	17/6
+	Kristofer Kosarev [Olympic Stars Aurora]	N	N	16/6
+    6.00	Barbara Smodleva	N	N	6/6
+	Idan Daich	N	N	15/6
+    6.00	Julie Kabetu [Dance Quality Ottawa]	N	N	6/6
+	Lionel Doonan	N	N	18/6
+    6.00	Yaroslav Fylymonchyk [Igor Fylymonchyk]	N	N	6/6
+	Sofiia Kalynchuk	N	N	8/6
+    6.00	Alina Pavlenko [Olympic Stars Aurora]	N	N	7/6
+	Kristofer Kosarev [Olympic Stars Aurora]	N	N	16/6
+    6.00	Emilia Yakubyk [Olympic Stars Aurora]	N	N	13/6
+	Eliran Yakobov [Olympic Stars Aurora]	N	N	15/6
+    5.00	Eitan Barsky [Olympic Stars Aurora]	N	N	11/5
+	Leanna Shtein [Olympic Stars Aurora]	N	N	18/5
+    5.00	Isabelle Olsen	N	N	13/5
+	Grant den Haan	N	N	13/5
+    5.00	Anna Paulava [Olympic Stars Aurora]	N	N	5/5
+	Mark Lebov	N	N	16/5
+    5.00	Mark Lebov	N	N	16/5
+	Leanna Shtein [Olympic Stars Aurora]	N	N	18/5
+    5.00	Sofiya Badalyan [Olympic Stars Aurora]	N	N	17/5
+	Kirill Tsydinskyi [Olympic Stars Aurora]	N	N	7/5
+    5.00	Grant den Haan	N	N	13/5
+	Isabelle Olsen	N	N	13/5
+    4.00	A. Mishaniova [Olympic Stars Aurora]	N	N	4/4
+	Kristofer Kosarev [Olympic Stars Aurora]	N	N	16/4
+    4.00	Anabelle Tremblay [Bahia Studio]	N	N	8/4
+	Sandu Babira	N	N	5/4
+    4.00	A. Khoroshaylova [Olympic Stars Aurora]	N	N	4/4
+	Nikita Zhuravlov	N	N	5/4
+    4.00	Jacques Gwilini [Ecole Danse Sportive Gatineau]	N	N	4/4
+	Jo-Hanne Monette [Ecole Danse Sportive Gatineau]	N	N	4/4
+    4.00	Sandra Will [Studio Danza]	N	N	4/4
+	Aidan Bermingham [Studio Danza]	N	N	22/4
+    4.00	Kasi Peri [TS Dance Montreal]	N	N	4/4
+	Aidan Bermingham [Studio Danza]	N	N	22/4
+    3.00	Cassidy Grossi [Olympic Stars Aurora]	N	N	3/3
+	Pavel Ivanov	N	N	3/3
+    3.00	Sophia Lebov [Olympic Stars Aurora]	N	N	3/3
+	Eliran Yakobov [Olympic Stars Aurora]	N	N	15/3
+    2.00	Delphine Lachance [Bahia Studio]	N	N	2/2
+	Emmy Chladek	N	N	3/2
+    2.00	Eitan Shtein [Olympic Stars Aurora]	N	N	2/2
+	Leanna Shtein [Olympic Stars Aurora]	N	N	18/2
+    2.00	Emilia Yakubyk [Olympic Stars Aurora]	N	N	13/2
+	Kirill Tsydinskyi [Olympic Stars Aurora]	N	N	7/2
+    1.00	Sofia Zannella	N	N	7/1
+	Idan Daich	N	N	15/1
+    1.00	Chloe Renaud [Studio Danza]	N	N	1/1
+	Aidan Bermingham [Studio Danza]	N	N	22/1
+    1.00	Eitan Barsky [Olympic Stars Aurora]	N	N	11/1
+	Alina Pavlenko [Olympic Stars Aurora]	N	N	7/1

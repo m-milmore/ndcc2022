@@ -1,0 +1,80 @@
+*********************************pro en pro/am*********************************
+Points	Name	Package	Top	Dances (total/this category)
+  258.00	Chris Rader [Dance With TLC]	N	N	258/258
+  244.00	V. Tudorovsky [SlavaTalent Ballroom Dance]	N	N	244/244
+  132.00	Ivan Lebedev [Shall We Dance Toronto]	N	N	132/132
+  114.00	Sharon Levit [Happy Feet Whitby]	N	N	114/114
+   98.00	Dmitry Ilyushenov [Dance Vitality Toronto]	N	N	98/98
+   98.00	Katia Stytsenko [Dance Vitality Toronto]	N	N	98/98
+   77.00	Andrew Sniegocki [Joli's Dance Studio]	N	N	77/77
+   76.00	Jason Suissa [Suissa Dance Montreal]	N	N	76/76
+   73.00	Patrick Derry [Artistica Ballroom Studio]	N	N	75/73
+   66.00	Anastasia Trutneva [Artistica Ballroom Studio]	N	N	68/66
+   62.00	Volvick Edouard [EDS Montréal]	N	N	62/62
+   60.00	Simone Zat [Arthur Murray West Island]	N	N	60/60
+   54.00	Alex Sharov [Sharov Studio Hudson]	N	N	54/54
+   54.00	Danny Arbour [Studio Danza]	N	N	54/54
+   50.00	Kamil Studenny	N	N	50/50
+   46.00	Maria Elent [Shall We Dance Toronto]	N	N	46/46
+   40.00	Karen Renaud [Ballroom on Wellington]	N	N	40/40
+   40.00	Stephanie Tudorovsky [SlavaTalent Ballroom Dance]	N	N	40/40
+   39.00	Yuriy Shelkovyy [Dance With Us Ottawa]	N	N	39/39
+   34.00	Sharaf Malik	N	N	34/34
+   32.00	Lorna Jackle [Dance Town Ottawa]	N	N	32/32
+   32.00	Laura Jeffs [Ottawa Dance Sport]	N	N	32/32
+   31.00	Mikhail Kudriashov [Art Motion Ottawa]	N	N	31/31
+   31.00	Anton Lebedev [Arthur Murray Ajax]	N	N	31/31
+   29.00	Marie Bolduc [Messier-Bolduc Mascouche]	N	N	29/29
+   27.00	Chris Drumm [Diamond Studio Ottawa]	N	N	27/27
+   26.00	Stilian Kostov [Kostov Dance Toronto]	N	N	26/26
+   25.00	Jean-Philippe Milot [Studio 2720 Montreal]	N	N	25/25
+   25.00	Stanislav Kochergin [Dance With Us Toronto]	N	N	25/25
+   24.00	Serghei Pogonet [Olympic Stars Aurora]	N	N	24/24
+   22.00	Vadim Safonov [Arthur Murray Ottawa]	N	N	22/22
+   20.00	Dmytro Gurkov [Arthur Murray Mississauga]	N	N	20/20
+   19.00	Konstantin Rogotskyy [Arthur Murray Montréal]	N	N	19/19
+   18.00	Brenton Mitchell [Fusion Dance Halifax]	N	N	18/18
+   18.00	Vincent Corriveau [Juste Danse Montréal]	N	N	19/18
+   17.00	Richard Lifshitz [Dancelife Toronto]	N	N	17/17
+   16.00	Cole Richardson [Cole Richardson Halifax]	N	N	16/16
+   16.00	Mila Kremer [Art Motion Ottawa]	N	N	16/16
+   13.00	Dmitry Levita [Levita Dance]	N	N	13/13
+   12.00	Viacheslav Chizhik	N	N	12/12
+   12.00	Francis Lafreniere [Bahia Chateauguay]	N	N	12/12
+   12.00	Maxime Deslauriers	N	N	12/12
+   12.00	Slava Gorbunov [Dance Life X Centre Toronto]	N	N	12/12
+   11.00	Daniel Studenny	N	N	12/11
+   11.00	Bianca Champagne [Juste Danse Montréal]	N	N	12/11
+   11.00	Woodrow Wills	N	N	12/11
+   11.00	Hermione Green [Dancesport MD]	N	N	12/11
+    8.00	Alina Safonova [Arthur Murray Ottawa]	N	N	8/8
+    3.00	Justine Rainville [Studio Danza]	N	N	3/3
+    1.00	Maxim Fomin [FollowMaxFomin]	N	N	1/1
+**************************************pro**************************************
+Points	Name	Package	Top	Dances (total/this category)
+    2.00	Michael Rubezin	N	N	2/2
+	Elise Magliocchetti	N	N	2/2
+    2.00	Vladyslav Storozhuk	N	N	2/2
+	Breanna Horniblow	N	N	2/2
+    2.00	Patrick Derry [Artistica Ballroom Studio]	N	N	75/2
+	Anastasia Trutneva [Artistica Ballroom Studio]	N	N	68/2
+    1.00	David Outevsky	N	N	1/1
+	Sophie Cazeneuve	N	N	1/1
+    1.00	Daniel Studenny	N	N	12/1
+	Tatiana Rotova	N	N	1/1
+    1.00	Hai Tran	N	N	1/1
+	Jocelyn Jacques [Arthur Murray North York]	N	N	1/1
+    1.00	Alec Zhiwei Zhang	N	N	1/1
+	Zhuoshi Xie	N	N	1/1
+    1.00	Woodrow Wills	N	N	12/1
+	Hermione Green [Dancesport MD]	N	N	12/1
+    1.00	Yvan Piwovarov [Shall We Dance Toronto]	N	N	1/1
+	Irina Khanova	N	N	1/1
+    1.00	Vladyslav Komelkov	N	N	1/1
+	A. Sevastianova	N	N	1/1
+    1.00	Alexey Karaulov	N	N	1/1
+	Vlada Karaulov	N	N	1/1
+    1.00	Egor Shalvarov [Studio Egor and Alla]	N	N	1/1
+	Alla Profatilova [Studio Egor and Alla]	N	N	1/1
+    1.00	Vincent Corriveau [Juste Danse Montréal]	N	N	19/1
+	Bianca Champagne [Juste Danse Montréal]	N	N	12/1
