@@ -1,0 +1,129 @@
+***************************Top Students Entries Only***************************
+Points	Name	Package	Top	Dances (total/this category)
+   99.00	Kara-Lee Barrow [Dance Vitality Toronto]	N	N	99/99
+   99.00	David Barrow [Dance Vitality Toronto]	N	N	99/99
+   82.00	Julie Ransom [Dance With TLC]	N	N	82/82
+   76.00	Caralyn Tierney [SlavaTalent Ballroom Dance]	N	N	76/76
+   66.00	Carmen Cornacchia [Artistica Ballroom Studio]	N	N	66/66
+   56.00	Julie Frame [Joli's Dance Studio]	N	N	56/56
+   55.00	Fiona Darbyshire [Suissa Dance Montreal]	N	N	55/55
+   49.00	Shani Hanwella [Ballroom Choice]	N	N	49/49
+   47.00	Wendy Zatylny [Dance With TLC]	N	N	47/47
+   46.00	Linda Miller [KS Dance]	N	N	46/46
+   42.00	Lori Greco [Artistica Ballroom Studio]	N	N	42/42
+   38.00	Amelia Ma [Shall We Dance Toronto]	N	N	38/38
+   37.00	Gladys Hill [Dance With TLC]	N	N	37/37
+   37.00	Huiying Wang [Dancelife Toronto]	N	N	37/37
+   36.00	Steve Doroszkiewcz [SlavaTalent Ballroom Dance]	N	N	36/36
+   34.00	Charles Hanwella [Happy Feet Whitby]	N	N	34/34
+   32.00	Maria Cheuk [Shall We Dance Toronto]	N	N	32/32
+   31.00	Patti Collins [Artistica Ballroom Studio]	N	N	31/31
+   30.00	Trina Lewis [Happy Feet Whitby]	N	N	30/30
+   29.00	Kathryn Gabinet-Kroo [EDS Montréal]	N	N	29/29
+   29.00	Myra Flipsen [SlavaTalent Ballroom Dance]	N	N	34/34
+   28.00	Denise Loucks [Dance With TLC]	N	N	28/28
+   28.00	Nadia Sicilia [Arthur Murray Montréal]	N	N	28/28
+   27.00	Jenn Jackson [Dance With Us Ottawa]	N	N	27/27
+   27.00	Mike Flipsen [SlavaTalent Ballroom Dance]	N	N	32/32
+   25.00	Kay Beattie [SlavaTalent Ballroom Dance]	N	N	25/25
+   24.00	Trish McNally [SlavaTalent Ballroom Dance]	N	N	24/24
+   24.00	Leyanis Guevara [Sharov Studio Hudson]	N	N	24/24
+   24.00	Valerie Celino [Happy Feet Whitby]	N	N	24/24
+   24.00	Eva Platek [SlavaTalent Ballroom Dance]	N	N	24/24
+   23.00	Linda Ueno [Shall We Dance Toronto]	N	N	23/23
+   23.00	Dominique Nadeau [Arthur Murray Ottawa]	N	N	26/24
+   22.00	Jeffrey Cody [SlavaTalent Ballroom Dance]	N	N	22/22
+   21.00	Celine Buron [Suissa Dance Montreal]	N	N	21/21
+   20.00	Anita Bartha [Studio Danza Pierrefonds]	N	N	20/20
+   20.00	Olga Cauia [EDS Montréal]	N	N	20/20
+   20.00	Mila Pavlichenko [Arthur Murray Mississauga]	N	N	20/20
+   20.00	Marcus Tittiger [Dance Town Ottawa]	N	N	20/20
+   19.00	Sophie Patenaude [Arthur Murray Montréal]	N	N	19/19
+   18.00	Tom Ma [Shall We Dance Toronto]	N	N	18/18
+   18.00	Jakki Gordon [Dance With TLC]	N	N	18/18
+   18.00	Louise Briere [Studio Danza Pierrefonds]	N	N	18/18
+   18.00	Christine Pellerin [Dance With TLC]	N	N	18/18
+   16.00	Louise Lavoie [Sharov Studio Hudson]	N	N	16/16
+   16.00	Joanne Kay-Smith [Ballroom Choice]	N	N	16/16
+   16.00	Joe Colangelo [Shall We Dance Toronto]	N	N	16/16
+   15.00	Sandra Banner [Diamond Studio Ottawa]	N	N	15/15
+   14.00	Chloe St. Cyr [Dance With TLC]	N	N	14/14
+   14.00	Olga Hareychuk [Kostov Dance Toronto]	N	N	14/14
+   14.00	Anna Lo Basso [Sharov Studio Hudson]	N	N	14/14
+   14.00	Alexandra Howard [Dance With TLC]	N	N	14/14
+   14.00	Raisa Weisspapir [Olsi Dance Studio]	N	N	14/14
+   13.00	Patricia Panfili [Centrale de la Danse]	N	N	16/13
+   13.00	Gabriella Callender [Dance With Us Toronto]	N	N	13/13
+   13.00	Shannon Bachynski [Levita Dance]	N	N	13/13
+   13.00	Minda Miloff [EDS Montréal]	N	N	13/13
+   13.00	Teresa Lee [Shall We Dance Toronto]	N	N	13/13
+   13.00	Rowena Liu	N	N	13/13
+   12.00	Sabrina Nirchi [Studio Danza Pierrefonds]	N	N	12/12
+   12.00	Isabelle Leblond [Quartier Latin Montreal]	N	N	12/12
+   12.00	Bethany Quick	N	N	12/12
+   12.00	Abigail Dempster [Art Motion Ottawa]	N	N	19/12
+   12.00	Vincent Locke [Art Motion Ottawa]	N	N	12/12
+   12.00	So My Pat [Studio Danza Pierrefonds]	N	N	12/12
+   12.00	Lev Lebedev [Shall We Dance Toronto]	N	N	12/12
+   12.00	A. Golovanevski [Shall We Dance Toronto]	N	N	12/12
+   12.00	Evelyn Koh [Kostov Dance Toronto]	N	N	12/12
+   12.00	Janet Venn Jackson [Art Motion Ottawa]	N	N	12/12
+   12.00	Heather Rothman [SlavaTalent Ballroom Dance]	N	N	12/12
+   12.00	Grace Valenzuela [Arthur Murray West Island]	N	N	12/12
+   12.00	Zhanna Prokopchuk [Dancing Stars Toronto]	N	N	12/12
+   12.00	Izumi Ishikawa [Dance Life X Centre Toronto]	N	N	12/12
+   12.00	Susan Novak [Diamond Studio Ottawa]	N	N	12/12
+   12.00	Cheryl Ewing [Fusion Dance Halifax]	N	N	12/12
+   12.00	Danielle Ethier [Bahia Chateauguay]	N	N	12/12
+   12.00	Elisabeth Poirier [Studio Danza Pierrefonds]	N	N	21/12
+   12.00	Richard Yasinski [Dance Town Ottawa]	N	N	12/12
+   11.00	Fei Wang [KS Dance]	N	N	11/11
+   11.00	Tatiana Dragutan	N	N	11/11
+   11.00	Jordan Warren [Studio Danza Pierrefonds]	N	N	11/11
+   11.00	Jackie Rooney [Ballroom Choice]	N	N	11/11
+   11.00	N. Wills-Campbell	N	N	11/11
+   11.00	Emily Tulea [Olympic Stars Aurora]	N	N	12/11
+   11.00	Richard Bodrug	N	N	15/11
+   11.00	Yifan Guo [Arthur Murray Ottawa]	N	N	11/11
+   11.00	Josephine Shum	N	N	11/11
+   11.00	Abigail Nelson [Joli's Dance Studio]	N	N	11/11
+   10.00	Alexander Charapov [Art Motion Ottawa]	N	N	10/10
+   10.00	Savannah MacDonald [The Ballroom Hamilton]	N	N	10/10
+   10.00	Veronica Solovyov [Art Motion Ottawa]	N	N	10/10
+   10.00	Mervin Fick [Joy of Dance Toronto]	N	N	10/10
+   10.00	Samantha Laraby [SlavaTalent Ballroom Dance]	N	N	10/10
+    9.00	Martin Cote [Arthur Murray Ottawa]	N	N	13/10
+    9.00	Matthew Champagne [SlavaTalent Ballroom Dance]	N	N	9/9
+    8.00	Anjali Jensen [Cole Richardson Halifax]	N	N	8/8
+    8.00	Dimitrina Bayarova [SlavaTalent Ballroom Dance]	N	N	8/8
+    8.00	Ruth Pacis [Cole Richardson Halifax]	N	N	8/8
+    8.00	Arlene Taveroff [Studio Danza Pierrefonds]	N	N	8/8
+    8.00	Karen Pearce	N	N	8/8
+    7.00	Andrea Bennett [Art Motion Ottawa]	N	N	7/7
+    7.00	Summer Skinner [Art Motion Ottawa]	N	N	7/7
+    7.00	Marilyn Lamonde [Juste Danse Montreal]	N	N	7/7
+    7.00	Celina Aouad [SlavaTalent Ballroom Dance]	N	N	7/7
+    7.00	Beth Maiden	N	N	7/7
+    7.00	Jean-Yves Labrosse [Messier-Bolduc Mascouche]	N	N	7/7
+    6.00	Jean Zmyslony	N	N	11/6
+    6.00	Sacha Frick	N	N	9/6
+    6.00	Jean Beaudet [Messier-Bolduc Mascouche]	N	N	6/6
+    6.00	Melissa Spence [SlavaTalent Ballroom Dance]	N	N	6/6
+    6.00	April Booth [Fusion Dance Halifax]	N	N	6/6
+    6.00	Yuliia Lukianova [Dance With Us Ottawa]	N	N	6/6
+    5.00	Paula Conlon	N	N	5/5
+    5.00	Phoebe Pang	N	N	5/5
+    5.00	Lara Duss [SlavaTalent Ballroom Dance]	N	N	5/5
+    4.00	Jacynthe Legault	N	N	4/4
+    4.00	Kirsten Wood [SlavaTalent Ballroom Dance]	N	N	4/4
+    4.00	Philippe Messier [Messier-Bolduc Mascouche]	N	N	12/4
+    4.00	Jacqueline Gravel [SlavaTalent Ballroom Dance]	N	N	4/4
+    4.00	Addie Greer [SlavaTalent Ballroom Dance]	N	N	4/4
+    3.00	Patchara Boonlert [Dance With Us Ottawa]	N	N	3/3
+    3.00	Carolyn Ramsum [Dance With Us Ottawa]	N	N	3/3
+    3.00	Blanche Gagliardi [Studio Danza Pierrefonds]	N	N	3/3
+    2.00	Maxim Arbour [Studio Danza Pierrefonds]	N	N	9/2
+    2.00	Elly Arbour [Studio Danza Pierrefonds]	N	N	5/2
+    2.00	Diane Trinque [SlavaTalent Ballroom Dance]	N	N	4/4
+    2.00	David Trinque [SlavaTalent Ballroom Dance]	N	N	4/4
+    1.00	Mia Yelizarova	N	N	10/1
