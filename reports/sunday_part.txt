@@ -1,3 +1,39 @@
+********************************sunday teachers********************************
+Points	Name	Package	Top	Dances (total/this category)
+   29.00	Nikita Druzhynin [Primeau-Poirier Mercier]	N	N	30/29
+   24.00	Ethan Zhu [Studio Danza Pierrefonds]	N	N	24/24
+   20.00	Aidan Bermingham [Studio Danza Pierrefonds]	N	N	22/20
+   16.00	Lionel Doonan	N	N	18/16
+   16.00	Oleksiy Kioresku	N	N	18/16
+   16.00	Kristofer Kosarev [Olympic Stars Aurora]	N	N	16/16
+   14.00	Idan Daich	N	N	15/14
+   12.00	Athyn Chan [Dance DNA Vaughan]	N	N	20/12
+   12.00	Ana Maria Cernat [Unique Dance Calgary]	N	N	12/12
+   12.00	Leanna Shtein [Olympic Stars Aurora]	N	N	18/12
+    9.00	Kevin Sun	N	N	10/9
+    9.00	Eliran Yakobov [Olympic Stars Aurora]	N	N	15/9
+    9.00	Andrew Buscu [Unique Dance Calgary]	N	N	9/9
+    9.00	Victoria Askinadze [Dance DNA Vaughan]	N	N	15/9
+    8.00	Alexey Gradinari [Olympic Stars Aurora]	N	N	14/8
+    8.00	Violet Doan	N	N	16/8
+    8.00	Daniela Rosculet	N	N	11/8
+    8.00	Alin Todea [Unique Dance Calgary]	N	N	14/8
+    7.00	Kirill Tsydinskyi [Olympic Stars Aurora]	N	N	7/7
+    7.00	Elisabeth Poirier [Studio Danza Pierrefonds]	N	N	21/7
+    6.00	Sofiia Kalynchuk	N	N	8/6
+    5.00	Isabelle Olsen	N	N	13/5
+    5.00	Grant den Haan	N	N	13/5
+    5.00	Mark Lebov	N	N	16/5
+    4.00	Aleksei Balashov [Dance DNA Vaughan]	N	N	12/4
+    4.00	Cynthia Lin [Dance DNA Vaughan]	N	N	21/4
+    4.00	Sandu Babira	N	N	5/4
+    4.00	Nikita Zhuravlov	N	N	5/4
+    4.00	Jo-Hanne Monette [Ecole Danse Sportive Gatineau]	N	N	4/4
+    3.00	Pavel Ivanov	N	N	3/3
+    2.00	Arsen Nor-Arevian [Dance DNA Vaughan]	N	N	10/2
+    2.00	Alysa Xia [Dance DNA Vaughan]	N	N	23/2
+    2.00	Emmy Chladek	N	N	3/2
+    1.00	Alina Pavlenko [Olympic Stars Aurora]	N	N	7/1
 ********************************sunday amateurs********************************
 Points	Name	Package	Top	Dances (total/this category)
    19.00	Anthony Zhylich	N	N	19/19
