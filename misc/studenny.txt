@@ -1,0 +1,74 @@
+		Invoice/Confirmation: Studenny, Kamil, 08/20/2022 07:55:25PM
+		Including charges to studio(s)
+
+
+Financial summary
+55 dances		        0.00
+0 packages		        0.00
+0 purchases		        0.00
+Subtotal of expenses		        0.00
+0 payments		        0.00
+		Paid in full
+
+Entries for: Miller, Linda/Studenny, Kamil
+ L-D Bronze 1 Fermé / Closed BALLROOM Valse/Waltz                      	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed BALLROOM Tango                            	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed BALLROOM Valse Viennoise/V. Waltz         	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed BALLROOM Foxtrot                          	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed BALLROOM Quickstep                        	    0.00 (Billed to: My Dance World)
+ L-E Bronze 1 Fermé / Closed BALLROOM Valse/Waltz                      	    0.00 (Billed to: My Dance World)
+ L-E Bronze 1 Fermé / Closed BALLROOM Tango                            	    0.00 (Billed to: My Dance World)
+ L-E Bronze 1 Fermé / Closed BALLROOM Valse Viennoise/V. Waltz         	    0.00 (Billed to: My Dance World)
+ L-E Bronze 1 Fermé / Closed BALLROOM Foxtrot                          	    0.00 (Billed to: My Dance World)
+ L-E Bronze 1 Fermé / Closed BALLROOM Quickstep                        	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed BALLROOM Valse/Waltz                        	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed BALLROOM Tango                              	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed BALLROOM Valse Viennoise/V. Waltz           	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed BALLROOM Foxtrot                            	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed BALLROOM Quickstep                          	    0.00 (Billed to: My Dance World)
+ L-E Bronze Fermé / Closed BALLROOM Valse/Waltz                        	    0.00 (Billed to: My Dance World)
+ L-E Bronze Fermé / Closed BALLROOM Tango                              	    0.00 (Billed to: My Dance World)
+ L-E Bronze Fermé / Closed BALLROOM Valse Viennoise/V. Waltz           	    0.00 (Billed to: My Dance World)
+ L-E Bronze Fermé / Closed BALLROOM Foxtrot                            	    0.00 (Billed to: My Dance World)
+ L-E Bronze Fermé / Closed BALLROOM Quickstep                          	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed LATIN Chacha                              	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed LATIN Samba                               	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed LATIN Rumba                               	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed LATIN Paso Doble                          	    0.00 (Billed to: My Dance World)
+ L-D Bronze 1 Fermé / Closed LATIN Jive                                	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed LATIN Chacha                                	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed LATIN Samba                                 	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed LATIN Rumba                                 	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed LATIN Paso Doble                            	    0.00 (Billed to: My Dance World)
+ L-D Bronze Fermé / Closed LATIN Jive                                  	    0.00 (Billed to: My Dance World)
+ L-D Argent 1 Fermé / Silver 1 Closed LATIN Chacha                     	    0.00 (Billed to: My Dance World)
+ L-D Argent 1 Fermé / Silver 1 Closed LATIN Samba                      	    0.00 (Billed to: My Dance World)
+ L-D Argent 1 Fermé / Silver 1 Closed LATIN Rumba                      	    0.00 (Billed to: My Dance World)
+ L-D Argent 1 Fermé / Silver 1 Closed LATIN Paso Doble                 	    0.00 (Billed to: My Dance World)
+ L-D Argent 1 Fermé / Silver 1 Closed LATIN Jive                       	    0.00 (Billed to: My Dance World)
+ L-E Argent 1 Fermé / Silver 1 Closed LATIN Chacha                     	    0.00 (Billed to: My Dance World)
+ L-E Argent 1 Fermé / Silver 1 Closed LATIN Samba                      	    0.00 (Billed to: My Dance World)
+ L-E Argent 1 Fermé / Silver 1 Closed LATIN Rumba                      	    0.00 (Billed to: My Dance World)
+ L-E Argent 1 Fermé / Silver 1 Closed LATIN Paso Doble                 	    0.00 (Billed to: My Dance World)
+ L-E Argent 1 Fermé / Silver 1 Closed LATIN Jive                       	    0.00 (Billed to: My Dance World)
+ L-C Déb. à Bronze Fermé / Beg. to Bronze Closed BALLROOM  3-Danses / 3-Dance (W/T/F)	    0.00 (Billed to: My Dance World)
+ L-C Déb. à Bronze Fermé / Beg. to Bronze Closed LATIN  3-Danses / 3-Dance (C/R/S)	    0.00 (Billed to: My Dance World)
+ L-D Déb. à Bronze Fermé / Beg. to Bronze Closed BALLROOM  3-Danses / 3-Dance (W/T/F)	    0.00 (Billed to: My Dance World)
+ L-D Déb. à Bronze Fermé / Beg. to Bronze Closed LATIN  3-Danses / 3-Dance (C/R/S)	    0.00 (Billed to: My Dance World)
+Subtotal						(44)	    0.00
+
+Entries for: Wang, Fel/Studenny, Kamil
+ L-E Or Ouvert / Gold Open LATIN Chacha                                	    0.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Samba                                 	    0.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Rumba                                 	    0.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Paso Doble                            	    0.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Jive                                  	    0.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Chacha                	    0.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Samba                 	    0.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Rumba                 	    0.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Paso Doble            	    0.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Jive                  	    0.00 (Billed to: My Dance World)
+ L-D Ouvert / Open LATIN  Schol. Champ. Canadien / Canadian Champ. (C/S/R/P/J)	    0.00 (Billed to: My Dance World)
+Subtotal						(11)	    0.00
+
+Total						(55)	    0.00

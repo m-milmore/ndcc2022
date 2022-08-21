@@ -1,0 +1,27 @@
+		Invoice/Confirmation: Wang, Fei, 08/20/2022 07:58:55PM
+		Including charges to studio(s)
+
+
+Financial summary
+11 dances		      415.00
+0 packages		        0.00
+0 purchases		        0.00
+Subtotal of expenses		      415.00
+0 payments		        0.00
+Balance due		      415.00
+
+Entries for: Wang, Fei/Studenny, Kamil
+ L-E Or Ouvert / Gold Open LATIN Chacha                                	   35.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Samba                                 	   35.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Rumba                                 	   35.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Paso Doble                            	   35.00 (Billed to: My Dance World)
+ L-E Or Ouvert / Gold Open LATIN Jive                                  	   35.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Chacha                	   35.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Samba                 	   35.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Rumba                 	   35.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Paso Doble            	   35.00 (Billed to: My Dance World)
+ L-E Or Avancé Ouvert / Advanced Gold Open LATIN Jive                  	   35.00 (Billed to: My Dance World)
+ L-D Ouvert / Open LATIN  Schol. Champ. Canadien / Canadian Champ. (C/S/R/P/J)	   65.00 (Billed to: My Dance World)
+Subtotal						(11)	  415.00
+
+Total						(11)	  415.00
