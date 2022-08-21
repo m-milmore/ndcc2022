@@ -46,7 +46,11 @@ Vendredi le 19 août 2022 	09h30 - 15h15, 5.75hrs, 18h00 - 20h00, 2hrs						total
 			inscriptions 3443 cumul, fix entries, email, facebook, phone
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Samedi le 20 août 2022	10h00 - 12h00, 13h00 - 17h30, 18h30 - 22h30
+=======
+Samedi le 20 août 2022	10h00 - 12h00=>2hr, 13h00 - 17h30=>4.5hr, 18h30 - 22h30=>4hr 23h00 - 00h00=>1hr
+>>>>>>> d09304ccb887654e2f0f6a665f6c8137537db287
 =======
 Samedi le 20 août 2022	10h00 - 12h00=>2hr, 13h00 - 17h30=>4.5hr, 18h30 - 22h30=>4hr 23h00 - 00h00=>1hr
 >>>>>>> d09304ccb887654e2f0f6a665f6c8137537db287
