@@ -45,18 +45,18 @@ Jeudi le 18 août 2022	22h45 - 23h15
 Vendredi le 19 août 2022 	09h30 - 15h15, 5.75hrs, 18h00 - 20h00, 2hrs						total 7.75hrs		46.5
 			inscriptions 3443 cumul, fix entries, email, facebook, phone
 
-<<<<<<< HEAD
-Samedi le 20 août 2022	10h00 - 12h00=>2hr, 13h00 - 17h30=>4.5hr, 18h30 - 22h30=>4hr 23h00 - 00h00=>1hr		total 11.5hrs		58
-			finaliser le programme: horaire, heats, categories, spread solos, min./dances, titles, dossards, 
-			awards, trophees, cpl too close in heats
-=======
 
 Samedi le 20 août 2022	10h00 - 12h00=>2hr, 13h00 - 17h30=>4.5hr, 18h30 - 22h30=>4hr 23h00 - 00h00=>1hr
 			finaliser le programme: horaire, heats, categories, spread solos, min./dances, titles, dossards, awards, trophees, cpl too close in heats
->>>>>>> bfb6dc2e45ce2d359bf00657952b72d5aaa82b92
 			multi-rounds, costume conflicts, awards, combine heats
 
-Dimanche le 21 août 2022	10h00 - 
+Dimanche le 21 août 2022	10h00 - 16h00, 6hrs, 18h00 - 01h00, 7hrs=> 13hrs					total 13hrs		59.5
+			programme, rapport trophées, horaire, dossards
+
+Lundi le 22 août 2022	8h30 - 9h00									total .5hr			60
+			listes d'amateurs et professionnels
+			10h30 - 16h00
+			modification horaires, changements, refaire horaire, programme, heat lists, envoyer documents
 
 
 

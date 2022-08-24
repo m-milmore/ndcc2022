@@ -1,0 +1,101 @@
+SUMMARY OF TROPHY REQUIREMENTS
+
+Dance categories with no assigned trophy style
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+  ****************************************************************************:
+
+Dance categories with trophy style 01 PA Sing Coup 1-3:
+  PRO-AM  SMOOTH  DANSES INDIV. FERMÉ / SINGLE DANCE CLOSED:
+  PRO-AM  RHYTHM  DANSES INDIV. FERMÉ / SINGLE DANCE CLOSED:
+  PRO-AM  BALLROOM  DANSES INDIV. FERMÉ / SINGLE DANCE CLOSED:
+  PRO-AM  LATIN  DANSES INDIV. FERMÉ / SINGLE DANCE CLOSED:
+  PRO-AM  SMOOTH  DANSES INDIV. OUVERT / SINGLE DANCE OPEN:
+  PRO-AM  RHYTHM  DANSES INDIV. OUVERT / SINGLE DANCE OPEN:
+  PRO-AM  BALLROOM  DANSES INDIV. OUVERT / SINGLE DANCE OPEN:
+  PRO-AM  LATIN  DANSES INDIV. OUVERT / SINGLE DANCE OPEN:
+
+Dance categories with trophy style 02 PA Solo Coup 1-3:
+  PRO-AM  DÉMONSTRATIONS SOLO / SOLO EXHIBITIONS:
+
+Dance categories with trophy style 11 AMAT Ruban 1-6:
+  AMATEUR  BALLROOM  Juvenile, Junior FERME/CLOSED:
+  AMATEUR  BALLROOM Juvenile, Junior CHALLENGE  :
+  AMATEUR  LATIN Juvenile, Junior FERME/CLOSED:
+  AMATEUR  LATIN Juvenile, Junior  CHALLENGE:
+  AMATEUR  BALLROOM Adult FERME/CLOSED:
+  AMATEUR  BALLROOM Adult CHALLENGE:
+  AMATEUR  LATIN Adult FERME/CLOSED:
+  AMATEUR  LATIN Adult CHALLENGE:
+  AMATEUR  SMOOTH FERME/CLOSED Jv/Jr & Adult:
+  AMATEUR  SMOOTH CHALLENGE Jv/Jr & Adult:
+  AMATEUR  RHYTHM FERME/CLOSED Jv/Jr & Adult:
+  AMATEUR  RHYTHM CHALLENGE Jv/Jr & Adult:
+
+Dance categories with trophy style 13 AmAm Rubans 1-6:
+  AMATEUR-MIX  BALLROOM  DANSES INDIV. FERME & OUVERT / SINGLE DANCE CLOSED & OPEN Jv/Jr/Yo & Adult:
+  AMATEUR-MIX  BALLROOM CHALLENGE FERME/CLOSED 15-/16+:
+  AMATEUR-MIX  BALLROOM  MULTI-DANSES OUVERT / MULTI-DANCE OPEN  Jv/Jr/Yo & Adult:
+  AMATEUR-MIX  LATIN DANSES INDIV. FERME & OUVERT / SINGLE DANCE CLOSED & OPEN Jv/Jr/Yo & Adult:
+  AMATEUR-MIX  LATIN CHALLENGE  FERME/CLOSED 15-/16+:
+  AMATEUR-MIX  LATIN MULTI-DANSES OUVERT / MULTI-DANCE OPEN Jv/Jr/Yo & Adult:
+
+Dance categories with trophy style 16 SOLO INDIV Rub 1-6:
+  AMATEUR-SOLO BALLROOM DANSES INDIV. FERME / SINGLE DANCE CLOSED Jv/Jr & Adult:
+  AMATEUR-SOLO BALLROOM MULTI-DANSES FERME & OUVERT / CLOSED & OPEN Jv/Jr & Adult:
+  AMATEUR-SOLO LATIN DANSES INDIV. FERME / SINGLE DANCE CLOSED Jv/Jr & Adult:
+  AMATEUR-SOLO LATIN  MULTI-DANSES FERME & OUVERT / CLOSED & OPEN Jv/Jr & Adult:
+
+Dance categories with trophy style 21 CNC PA Schol:
+  PRO-AM  SCHOL. CHAMP. CANADIEN / CANADIAN CHAMP.:
+
+Dance categories with trophy style 22 CNC AMAT:
+  AMATEUR  BALLROOM Juv, Jun CHAMP. CANADIEN NATIONAL / CANADA'S NATIONAL CHAMP.:
+  AMATEUR  LATIN Juv, Jun  CHAMP. CANADIEN NATIONAL / CANADA'S NATIONAL CHAMP. :
+  AMATEUR  BALLROOM Adult CHAMP. CANADIEN NATIONAL / CANADA'S NATIONAL CHAMP.:
+  AMATEUR  LATIN Adult CHAMP. CANADIEN NATIONAL / CANADA'S NATIONAL CHAMP.:
+  AMATEUR  SMOOTH CHAMP. CANADIEN NATIONAL / CANADA'S NATIONAL CHAMP. Jv/Jr & Adult:
+  AMATEUR  RHYTHM CHAMP. CANADIEN NATIONAL / CANADA'S NATIONAL CHAMP. Jv/Jr & Adult:
+
+Dance categories with trophy style 23 CNC Pro:
+  PROFESSIONEL  CHAMPIONNAT CANADIEN NATIONAL / CANADA'S NATIONAL CHAMPIONSHIP:
+  PROFESSIONEL  CHAMPIONNAT 10-DANSES / 10-DANCE CHAMPIONSHIP:
+
+Dance categories with trophy style 31 AMAT Dipl 1-6:
+  AMATEUR  CABARET:
+
+Dance categories with trophy style 32 PRO Dipl 1-6:
+  PROFESSIONEL  CHAMPIONNAT SHOWDANCE CANADA'S NATIONAL CHAMPIONSHIP:
+
+Dance categories with trophy style 34 PA Diplome 1-3:
+  PRO-AM  3-DANSES/ 3-DANCE:
+
+Dance categories with trophy style 41 FORMATION:
+  FORMATION:
+
+Dance categories with trophy style Pr-Comp:
+  AMATEUR-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE:
+  AMATEUR-COUPLE  PRÉ-COMPÉTITIF / PRE-COMPETITIVE:
+
+Trophy	Number	Number of trophys for each place
+Style	Persons	1st	2nd	3rd	4th	5th	6th
+01 PA Sing Coup 1-3	119	1301	431	166	75	10	0
+02 PA Solo Coup 1-3	5	6	0	0	0	0	0
+11 AMAT Ruban 1-6	184	262	136	84	68	56	42
+13 AmAm Rubans 1-6	50	152	59	37	19	14	8
+16 SOLO INDIV Rub 1-6	31	86	48	34	32	32	22
+21 CNC PA Schol	48	19	16	12	8	4	3
+22 CNC AMAT	144	50	40	36	30	30	24
+23 CNC Pro	24	8	8	8	4	2	0
+31 AMAT Dipl 1-6	6	6	0	0	0	0	0
+32 PRO Dipl 1-6	4	2	2	0	0	0	0
+34 PA Diplome 1-3	106	100	71	52	33	20	8
+Pr-Comp	34	260	0	0	0	0	0
+Note: For amateur and professional couples it is assumed that each partner gets a trophy, so the count is doubled.
