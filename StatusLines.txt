@@ -1,0 +1,3 @@
+ COMPMNGR DATABASE NAME: ndccndcc2022                        DATABASE LOCATION: C:\cmpmgr\Ndcc\ndcc2022                        USER:Main (access level 10)
+CompMngr Version 3.220 [07/26/2022 16:44], Copyright 2022 by Richard E. Douglass, Ph.D. [Executable program: C:\cmpmgr\CompMngr.exe]
+For use by Canada's National Championships. Unlimited Aug 03, 2022 - Aug 29, 2022. Unlimited number of entries.                                              
