@@ -1,9 +1,0 @@
-Name	Dance category	1st	2nd	3rd	4th	5th	6th
-Unkown person code 4294967295 not in database	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0
-Michael Belenkiy	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0
-Annabelle Buscu	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0
-Sofia Cernat	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0
-Avianna Ghantous	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0
-Nicole Narodetskaya	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0
-Sofia Narodetskaya	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0
-Liwayway Vant Hullenaar	Amat.-SOLO  PRÉ-COMPÉTITIF / PRE-COMPETITIVE	0	0	0	0	0	0

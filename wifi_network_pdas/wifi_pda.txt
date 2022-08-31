@@ -1,0 +1,46 @@
+Judges' marking devices, WiFi PDAs
+COMPMNGR provides an interface for managing judges' handheld marking devices which transfer information back and forth with COMPMNGR over a wireless local area network. These are PDAs (Personal Digital Assistants, small hand held computers) which run the standalone HandheldMarker program and into which the judges enter their placements directly as they stand around the dance floor; the hand held computers then send the marks directly to the COMPMNGR computer.
+
+ 
+
+The HandheldMarker program is included in the COMPMNGR setup. The HandheldMarker.exe file is designed to operate on PDAs running Microsoft's Windows CE (also known as Windows Mobile) operating system, such as the HP iPAQ Pocket PC. It must be installed on each marking device using the connecting cable and software that came with the device. HandHeldMarker has its own help system and also has a training mode to allow judges to experiment with marking different kinds of competitions (skating system, solos, etc.).
+
+ 
+
+COMPMNGR communicates directly with remote marking devices using a logic module which will be called MarkerServer, which is almost but not quite a separate program and which runs in the background so that the COMPMNGR user can continue to perform normal tasks like doing write-ins and scratches. The MarkerServer interface is an optional, extra cost feature enabled when you register COMPMNGR. COMPMNGR's extra cost option for remote marking device support enables the software but does not include the hardware or support for setting it up in a wireless network. When MarkerServer is running it places a dialog bar at the bottom of the on-screen program to provide the user with certain status information and controls.
+
+ 
+
+The operation will be explained after a brief description of the hardware and software requirements for managing remote marking devices. Two types of hardware are required. First is a network router attached to the COMPMNGR computer. The second is a set of marking devices, one handheld unit for each judge on the floor. The program running on the devices communicates with the router, which communicates with COMPMNGR.
+
+ 
+
+To use the marking devices after the network has been set up, you go to the on-screen view of the program (via the F9 Review/edit/print competition program button in the starting view) and select Scrutinize/Enable marking devices/WiFi devices, PDAs in the on-screen program menu to launch the MarkerServer module, which runs in an unattended background mode and places an icon in the task bar to pop up its control dialog. When you enable MarkerServer, a box pops up informing you of the IP Address and port number being used; you should provide this information to the remote marking device users. You also select between two modes of operation for sending data to the PDAs and importing data from them: The modes, manual or automatic, are explained below. The COMPMNGR interface to MarkerServer operates in two steps in either mode.
+
+ 
+
+Before using any mode you must specify the judging panels which will be used in the upcoming heats. This information is required by the marking devices
+
+ 
+
+Manual send mode
+
+ 
+
+(1) Just before the start of a heat to be marked on the remote marking devices you place the highlight bar on the heat header line and press the F9 key to send the heat information to the marking devices. You may also mark and send an entire block of heats by the usual method, but this is not recommended as it may overload the devices. COMPMNGR also offers you an aid for locating upcoming heats; select Scrutinize / Next unmarked heat and COMPMNGR will attempt to place the highlight bar on the next heat following the last marked heat. The Ctrl-F8 key combination is a shortcut to auto-location. However you locate or mark the heats, you then select menu items Scrutineering/Create marking device files, or press the F9 key, to cause COMPMNGR to write to the hard disk one data file, called an "OUT" file, for each competition within each heat. If there are preliminary rounds you will be required to specify how many entrants are to be recalled. The MarkerServer module then reads the 'OUT' files and transmits the required data to the judges' marking devices.
+
+ 
+
+(2) After remote devices transmit their marks, the MarkerServer module assembles them into files ("INP" files) for COMPMNGR to import. If you have selected Automatic import the files will be imported without your intervention. Otherwise it alerts you by displaying a small box, with some flashing text, an annoying beep, and a button to click to import the files, do the scrutineering calculations, and post the final results in the on-screen program. The scrutineer can also select menu items Scrutinize/ Import from marking devices to import the files.
+
+ 
+
+Automatic send mode
+
+ 
+
+(1) In full automatic mode COMPMNGR and MarkerServer do everything for you except determine the number of entrants to be recalled from preliminary rounds, which you must specify. If there are a lot of preliminary rounds you shouldn't use automatic mode because you may be overloaded and hung up by such requests. In full automatic mode COMPMNGR tries to keep the remote marking devices supplied with information for several heats following the heat just marked. You specify the number of heats.
+
+ 
+
+(2) If you have selected Automatic import the marks will be imported without your intervention. Otherwise MarkerServer alerts you by displaying a small box, with some flashing text, an annoying beep, and a button to click to import the files, do the scrutineering calculations, and post the final results in the on-screen program.

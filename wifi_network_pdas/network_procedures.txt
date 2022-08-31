@@ -1,0 +1,31 @@
+Network operations
+
+ 
+
+This section addresses built-in network file sharing capabilities. This is a powerful feature which allows COMPMNGR users on a network to operate on the same database simultaneously. For example, the registrar can be doing write-ins and scratches at the same time the scrutineers are entering judges marks, all in the same database file. The registrar's changes are displayed on the scrutineers' screens soon after they are made, and placements resulting from the scrutineers' work are displayed on the registrar's screen. Because of the large amounts of data being passed back and forth and of the necessity of logic to prevent conflicting operations, you may find file sharing to be prohibitively slow on all but the fastest networks. Because of this, COMPMNGR also provides a more limited networking feature suitable for handheld judge's marking devices .
+
+ 
+
+There are four main aspects of network operations you need to understand if you are running COMPMNGR on different computers which share a COMPMNGR database file over a local area network. Three of them, including how to set up COMPMNGR for such operations, are discussed below. The fourth is how to configure a computer's operating system (i.e. Windows) for network operations and is outside the scope of this help system; it will be assumed in this discussion that the computers are already connected to a network and properly configured for file sharing operations. This means every computer running the COMPMNGR program must have a network name recognized by the other computers on the network and that the folder containing the shared database is properly set up to allow sharing.
+
+ 
+
+(1) There are only two steps in setting up COMPMNGR for network operations, both of which should be done by the master user after COMPMNGR and the competition database are installed on his or her computer. If the competition registrar is not the master user, then the master user should set up the registrar's computer prior to the competition. For the purposes of this discussion, it will be assumed that the registrar is the master user. The first step is to set up the master user's computer as the "server", the computer on which the database actually resides in some folder on the computer's hard disk. This is done in the user setup dialog box (go to [Main menu:Setup + Menu:Users] ) in which the master user sets up a password and access level for every person (other than him/herself) allowed to access the database and also a list of network names of computers allowed to access the database. Any person in the allowed user list can use any computer in the allowed computer list, but the master user should start COMPMNGR and open the database before the other users and each user should open the database under his/her own password (the password is associated with the person, not the computer).
+
+ 
+
+The second step is to install the same version of the COMPMNGR program on all the other computers. There are (at least) two ways to do this to do the installation. The easiest, but least efficient, is to go to [Main menu:Copy/merge + Create program setup diskettes or removable drive] and follow the instructions for copying the program to another computer by use of diskettes. This method is inefficient because diskette data transfers are slow and because it transfers a copy of the database file, which is not required on any computer except the master user's. The most efficient, if the computers are connected on the network, is to simply copy the files listed below from one computer to the other via the network connection:
+
+COMPMNGR.EXE - The actual COMPMNGR for Windows program file.
+
+COMPMNGR.CHM - The main help system file.
+
+LINEDRAW.TTF - Typeface file used by scrutineering print function to print scoresheet grid.
+
+ 
+
+(2) The second main aspect of network operations you need to understand is that, even though the COMPMNGR users on the network share a database file, each user runs the COMPMNGR program located on his or her own computer. That is, the COMPMNGR program itself is not designed to be shared across a network; instead a copy of the program file (named CompMngr.exe ) should be installed on each computer as described above. However, once a user starts the COMPMNGR program located on his or her computer, the user must be sure to open the database file located on the master user's computer even if there is a copy of the database on the user's computer. In order to specify a file to open on a "remote" computer (a computer other than the one containing the COMPMNGR program file you are running) the user has to know the remote computer's name, the network name of the disk drive containing the database, the name of the folder drive containing the database, and the root name of the database. If you had to type the complete specification it would look something like \\ComputerName\DriveName\FolderName\DatabaseRootName.dbc. However, typically you can use the File/Open dialog box to "navigate" to the database by clicking on the names.
+
+ 
+
+(3) The third main aspect of network operations you need to understand is that when several people share a database file the COMPMNGR program has to prevent them from performing conflicting operations such as modifying the same data item at the same time or storing different items of data at the same location in the database file so that one overwrites the other. To prevent conflicting operations you will occasionally be politely told to wait while some other user completes an operation (usually the storing of a data item in the database file). The dialog box which tells you to wait may have a button which you can click to abort the operation you are performing rather than wait; normally you should not do that because it may result in the loss of a data item which you just entered but which COMPMNGR has not yet stored in the database file. The dialog box will automatically disappear when the other operation is completed, usually no more than a second or two, then your operation will be completed. You should abort only if the user who is completing the other operation has an abnormal program termination (e.g. the program crashes) before the data item is unlocked. To learn more, click on shared database logic.

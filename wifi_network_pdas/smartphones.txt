@@ -1,0 +1,30 @@
+Judges' marking devices, Internet enabled smartphones
+If the optional web page creation feature is purchased, COMPMNGR provides an interface for managing judges' handheld marking devices that transfer information back and forth with COMPMNGR via the Internet. The devices are typically smartphones or tablet computers with web browser programs.
+
+ 
+
+The use of the Internet interface requires access to a web hosting service. The organizer can use either his/her own service or COMPMNGR's www.compmngr.com service. In either case, a CGI script (a small program running on a web site hosting computer) named MarkerServer.pl and provided with the COMPMNGR suit of files must be installed on the host computer (also knwn as the server). This has already been done on the www.compmngr.com server. You specify your hosting service in the web page server dialog box. After this is done it is up to your scrutineers and judges.
+
+ 
+
+First the scrutineer enables the Internet interface by navigating in the on-screen program menu to Scrutinize/Enable marking devices/Internet devices, smartphones. When this menu item is selected COMPMNGR creates and uploads the judge's sign-in web page to the host computer. The sign-in page allows the judge to enter his judge ID letter or number. After the sign-in page is uploaded, COMPMNGR pops up a message box that tells the scrutineer the address of the web page on which the judges can access the sign-in and marking pages. The scrutineer is responsible for passing this information to those judges who are marking using their device’s web browser. It is necessary to repeat this step each time COMPMNGR is restarted. Just following this step COMPMNGR will ask the scrutineer whether he/she wants COMPMNGR to automatically determine the round and number of entrants to recall for each preliminary round in a block of heats selected by the scrutineer for marking by the judge’s devices. If this option is not selected the scrutineer will have to make this determination for each preliminary round in the selected block before the block can be sent for marking.
+
+ 
+
+After the sign-in web page is uploaded it is up to the judges to navigate their devices to the sign-in web page and to enter their judges’ IDs. Then they wait until the scrutineer signals them (by a wave of the hand, an announcement by the MC, or some other pre-arranged signal) that information for marking heats is available.
+
+ 
+
+Before selecting the heats to be provided to the judges for marking, the scrutineer should make sure that the judges who are to mark the heats have been specified by inserting judge panel change lines into COMPMNGR’s on-screen program.
+
+ 
+
+Just prior to one or more heats that are about to be danced the scrutineer selects (marks them so the screen background for those heats turns blue) the block of heats and presses the F9 key (or clicks on Scrutinize/Scrutinize in the menu). This causes COMPMNGR to create and upload to the server a web page allowing the judges to mark the competitions in the selected heats and then to send the marks data to the server for COMPMNGR to download and import. When a block of heats is selected for the marking page the background color of all entries in the block turns yellow and will stay yellow until the entries are placed and the placements saved in COMPMNGR’s database. The scrutineer can also specify the number of heats in a block to send by selecting menu item Number of heats to send for marking in the Scrutinize/Enable marking devices sub-menu. Then when the scrutineer puts the highlight bar on a heat header and presses F9 a block of heats, starting with the heat with the highlight bar, is sent for marking without having to select the block as described at the beginning of this paragraph.
+
+ 
+
+After the scrutineer uploads a marking page and signals the judges they click on a sign-in screen button labeled Check for heats to mark to link to the marking page. When a judge finishes marking a heat and clicks a Send marks button the marks are sent to a file on the host computer. When the scrutineer pops up the scrutineer's data entry box to enter the marks for a competition in the heat, he/she can click on a button labeled Get marks to download the file and insert the marks into the data entry box. This can be done as many time as necessary until all judges using marking devices have sent their marks. Marks received on paper marking forms are entered manually.
+
+ 
+
+To disable the Internet interface the scrutineer by navigates to Scrutinize/Enable marking devices/Internet devices, smartphones and selects it to toggle the interface off.

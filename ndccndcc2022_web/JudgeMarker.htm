@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>JUDGE MARKER</title>
+<script type=text/javascript>
+function window_onload()
+{
+  var JudgeFromCookie = getCookieValue("TEXT:");//JUDGE_LINE
+  if (JudgeFromCookie != null)
+    document.marker_signin.JUDGEID.value = JudgeFromCookie;
+}
+function save_button()
+{
+  var savetext = document.marker_signin.JUDGEID.value;
+  setCookie("TEXT:", savetext,"","")  
+  document.marker_signin.SCROLL_LOC.value = 0;
+}
+function getCookieValue(cookieName)
+{
+   var cookieValue = document.cookie;
+   var cookieStartsAt = cookieValue.indexOf(" " + cookieName + "=");
+   if (cookieStartsAt == -1)
+   {
+      cookieStartsAt = cookieValue.indexOf(cookieName + "=");
+   }
+   if (cookieStartsAt == -1)
+   {
+      cookieValue = null;
+   }
+   else
+   {
+      cookieStartsAt = cookieValue.indexOf("=", cookieStartsAt) + 1;
+      var cookieEndsAt = cookieValue.indexOf(";", cookieStartsAt);
+      if (cookieEndsAt == -1)
+      {
+         cookieEndsAt = cookieValue.length;
+      }
+      cookieValue = unescape(cookieValue.substring(cookieStartsAt, cookieEndsAt));
+   }
+   return cookieValue;
+}
+function setCookie(cookieName, cookieValue, cookiePath, cookieExpires)
+{
+   cookieValue = escape(cookieValue);
+   if (cookieExpires == "")
+   {
+      var nowDate = new Date();
+      nowDate.setMonth(nowDate.getMonth() + 6);
+      cookieExpires = nowDate.toGMTString();
+   }
+ 
+   if (cookiePath != "")
+   {
+      cookiePath = ";Path=" + cookiePath;
+   }
+   document.cookie = cookieName + "=" + cookieValue + 
+      ";expires=" + cookieExpires + cookiePath;
+}
+</script>
+</head>
+<body onload="window_onload()">
+<p align="left"><font size="10">Canada's National Championships</font></p>
+<br><p><font size="8">Please enter your judge identification letter or number (usually something
+like B or 08), then wait for the scrutineer to post the marking sheet page
+for the next heat(s). After the marking sheet page is posted the scrutineer should
+give you a signal (for example, a hand wave or a wink). Then click on
+the &quot;Check for heat to mark&quot; button to bring up 
+marking page.</font></p><br>
+<form name=marker_signin onsubmit="save_button()" action="http://www.comp-mngr.com/cgi-bin/MarkerServer.pl" method="post">
+<p><font size="8">Judge ID (letter or number) <input type="text" name="JUDGEID" size="6" style="font-size:30pt;"></font></p>
+<input type="hidden" name="FILEPATH" value="<ROOT>/ndccndcc2022">
+<input type="hidden" name="MARKER_HTMFILE" value="HeatMarker.htm">
+<input type="hidden" name="SAVE_MARKS" value="NO_SAVE"><br>
+<input type="submit" name="submit" value="Check for heats to mark" style="width:400px;height:50px;font-size:20px;">
+</form>
+</body>
+</html>

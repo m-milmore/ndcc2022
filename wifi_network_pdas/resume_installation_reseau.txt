@@ -1,0 +1,16 @@
+1) les 2 ordis se voient (Windows)
+2) copier les 3 fichiers sur les ordis clients
+	COMPMNGR.EXE - The actual COMPMNGR for Windows program file.
+	COMPMNGR.CHM - The main help system file.
+	LINEDRAW.TTF - Typeface file used by scrutineering print function to print scoresheet grid.
+3) ouvrir compmngr localement, niveau client
+4) ouvrir la db sur le serveur
+5) utiliser son user name & password
+
+
+1) ndcc2021
+2) dansElite2022
+3) laClass2022
+4) DSM2022
+5) SDF2022
+6) ndcc2022
